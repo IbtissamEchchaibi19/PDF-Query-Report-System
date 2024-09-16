@@ -5,7 +5,7 @@
     </ul>
   </div>
   
-  <p>Mortage Risk predictor</p>
+  <p>PDF Query & Report System</p>
     <a href="https://technocolabfinalproject.onrender.com/" target="_blank">Request Feature</a>
 </div>
 <br>
@@ -56,6 +56,7 @@ For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%234E8F41.svg?style=for-the-badge&logo=llama&logoColor=white)
+[![Gemini Pro Vision](https://img.shields.io/badge/Gemini%20Pro%20Vision-blue?style=for-the-badge&logo=text&logoColor=white)]
 ![NLTK](https://img.shields.io/badge/NLTK-%23D3A02A.svg?style=for-the-badge&logo=nltk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%233C6F82.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
