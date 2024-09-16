@@ -1,77 +1,73 @@
 <div align="center">
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">PDF Query & Report System</h1></summary>
+      <summary><h1 style="display: inline-block;">ProjectSync Dashboard</h1></summary>
     </ul>
   </div>
   
-  <p>PDF Query & Report System</p>
-    <a href="https://technocolabfinalproject.onrender.com/" target="_blank">Request Feature</a>
+  <p>ProjectSync Dashboard</p>
+    <a href="https://example-projectsync-url.com" target="_blank">Request Feature</a>
 </div>
 <br>
 
 ## 📝 Table of Contents
 
-1. [ Project Overview ](#introduction)
-2. [ Key Features ](#features)
-3. [ Project Architecture ](#arch)
-4. [ Usage ](#usage)
-5. [ Team ](#team)
-6. [ Contact ](#contact)
+1. [Project Overview](#introduction)
+2. [Key Features](#features)
+3. [Project Architecture](#arch)
+4. [Usage](#usage)
+5. [Contact](#contact)
 
 <a name="introduction"></a>
 ### 🔌 Project Overview
 
-**PDF Query & Report System** is an advanced tool designed to extract and interact with text and images from PDFs, providing valuable insights and simplifying academic research and thesis creation. Developed with cutting-edge technologies, this system allows users to query document content, receive summaries, and generate detailed Word reports, making it an essential tool for researchers and students.
+**ProjectSync Dashboard** is a comprehensive web application designed to streamline project management and task tracking. The platform features an intuitive admin panel for project managers to assign tasks, monitor project progress, and manage team workflows. Team members benefit from personalized dashboards that allow them to manage their tasks, update project statuses, and communicate directly with their managers. Developed with modern web technologies, this tool enhances collaboration and efficiency within teams.
 
 ### 🔌 Key Features
 
-- **Text and Image Extraction:** Efficiently extracts text and images from PDFs, enabling users to interact with document content and gain key insights.
+- **Admin Panel:** Allows project managers to assign tasks, monitor project progress, and oversee multiple projects from a centralized interface.
 
-- **Document Querying:** Users can query document content and images to retrieve specific information or summaries, enhancing their ability to find relevant data quickly.
+- **Personalized Dashboards:** Team members have access to customized dashboards to manage their tasks, update project statuses, and communicate with managers directly.
 
-- **Summarization and Reporting:** Provides automated summarization of document content and generates detailed Word reports, simplifying the process of creating academic papers and research reports.
+- **Task Management:** Facilitates task assignment and tracking, ensuring that team members can efficiently manage their workloads.
 
-- **Intuitive Interface:** Designed with Streamlit, the tool offers an easy-to-use interface for users to interact with the system, making it accessible for both technical and non-technical users.
+- **Project Progress Monitoring:** Provides tools for project managers to track the progress of ongoing projects, view updates, and ensure timely completion.
 
-- **Advanced Technologies:** Utilizes Python, LlamaIndex, LLMs (Gemini Pro Vision), NLTK, and scikit-learn to deliver robust text analysis and document interaction capabilities.
+- **Real-Time Communication:** Enables direct communication between team members and managers, enhancing collaboration and feedback.
 
-- **Version Control:** Employs Git for version control, ensuring effective management and tracking of changes to the tool.
+- **Modern Technologies:** Built using React, Node.js, Express.js, MongoDB, and Docker to deliver a robust and scalable solution.
 
-With the Smart Retrieval System, users can streamline their document analysis process, enhance their research capabilities, and simplify the creation of academic reports and theses.
 <a name="arch"></a>
 ## 📝 Project Architecture
 
 ### ⚙️ Back End
 
-![architecture-backend](https://github.com/Hamagistral/TeethSeg/assets/66017329/3eddbe6e-1afb-4a52-8128-006367c0d670)
+![architecture-backend](https://example.com/backend-architecture-image)
 
 ### 🎨 Front End
 
-![frontendarchitecture](https://github.com/Hamagistral/TeethSeg/assets/66017329/2fb117b5-8dc9-4ac6-a9f0-7f7a2a15e122)
+![frontendarchitecture](https://example.com/frontend-architecture-image)
 
-For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree/frontend).
+For more, see the [front end branch](https://github.com/your-repo/frontend).
 
 ### 🛠️ Technologies Used
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%234E8F41.svg?style=for-the-badge&logo=llama&logoColor=white)
-[![Gemini Pro Vision](https://img.shields.io/badge/Gemini%20Pro%20Vision-blue?style=for-the-badge&logo=text&logoColor=white)]
-![NLTK](https://img.shields.io/badge/NLTK-%23D3A02A.svg?style=for-the-badge&logo=nltk&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%233C6F82.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <a name="usage"></a>
 ## 💻 Usage
-1. Open the [PDF Query & Report System](https://example-render-url.com) web application.
-2. Navigate to the "Document Upload" section.
-3. Upload your PDF document using the provided upload field.
-4. Once the document is uploaded, you can query specific content and images by entering keywords or phrases into the search bar.
-5. View the extracted text and images from the document. The system will provide summaries and key insights based on your queries.
-6. For detailed analysis, generate Word reports using the "Generate Report" feature, which includes the extracted data and insights.
-7. Review the summaries and reports to assist with thesis creation or academic research.
-8. To process a new document, upload a different PDF and repeat the querying and reporting steps.
-9. Refresh the page or close the browser window when you are finished to ensure a clean state for the next session.
+
+1. Open the [ProjectSync Dashboard](https://example-projectsync-url.com) web application.
+2. Navigate to the "Admin Panel" section if you are a project manager, or to your "Personal Dashboard" if you are a team member.
+3. Project managers can assign tasks, monitor progress, and manage projects through the admin panel.
+4. Team members can view their tasks, update statuses, and communicate with managers via their personalized dashboard.
+5. Use the provided features to manage and track projects effectively.
+6. For new tasks or updates, navigate back to the respective sections and repeat the process as needed.
+7. Log out or close the browser window when finished to ensure your session is secure.
 
 <a name="contact"></a>
 ## 📨 Contact Me
