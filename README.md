@@ -63,7 +63,7 @@ For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree
 
 <a name="usage"></a>
 ## 💻 Usage
-1. Open the [Smart Retrieval System](https://example-render-url.com) web application.
+1. Open the [PDF Query & Report System](https://example-render-url.com) web application.
 2. Navigate to the "Document Upload" section.
 3. Upload your PDF document using the provided upload field.
 4. Once the document is uploaded, you can query specific content and images by entering keywords or phrases into the search bar.
